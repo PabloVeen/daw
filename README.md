@@ -7,4 +7,4 @@ Yo no tengo el PI ya que soy de la nueva ley.
 | NOMBRE PROYECTO          | DESCRIPCIÓN                                     |
 |--------------------------|-------------------------------------------------|
 | Proyecto Integrador (PI) | https://github.com/PabloVeen/daw                |
-| Documenta Servidor FTP   | https://github.com/PabloVeen/docs               |
+| Documenta Servidor FTP   | https://github.com/PabloVeen/daw/tree/main/docs |
