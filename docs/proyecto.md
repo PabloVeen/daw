@@ -1,9 +1,15 @@
-Proyecto para diseñar una propuesta tecnológica completa y viable dentro del ciclo ASIR.
+Proyecto centrado en implantar un sistema de detección de intrusos en una red virtual simulada.
 
-Debe identificar una problemática real y justificar la necesidad de la solución propuesta.
+Busca identificar amenazas, registrar eventos y responder automáticamente ante actividades sospechosas.
 
-Incluye objetivos específicos, alcance, límites y planificación detallada por fases.
+Analiza riesgos de pérdida de datos, vulnerabilidades de red y problemas de seguridad física.
 
-Requiere definir recursos, herramientas, hardware y procesos implicados en el proyecto.
+Utiliza Snort o Suricata para monitorizar tráfico y generar alertas en tiempo real.
 
-Debe relacionarse con los resultados de aprendizaje de los módulos del ciclo ASIR.
+Incluye scripting en Bash o Python para automatizar respuestas ante incidentes.
+
+El entorno se basa en máquinas virtuales con Ubuntu Server, Kali Linux y herramientas de monitorización.
+
+El proyecto se divide en fases de diseño, despliegue, configuración avanzada y validación final.
+
+Permite cubrir numerosos resultados de aprendizaje relacionados con redes, seguridad, sistemas y automatización.
